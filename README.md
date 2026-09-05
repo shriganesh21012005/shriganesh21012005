@@ -34,7 +34,7 @@ I'm a passionate developer interested in **Full Stack Development(MERN), Backend
 
 ## 📫 Connect With Me
 
-[Portfolio]([https://myportfolio2005.vercel.app/]) • [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rikita-roy-147817299/)) • [GitHub]([YOUR_GITHUB_URL](https://github.com/shriganesh21012005))
+[Portfolio](https://myportfolio2005.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rikita-roy-147817299/) • [GitHub](https://github.com/shriganesh21012005)
 <!--
 **shriganesh21012005/shriganesh21012005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
