@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rush Roy!
+# 👋 Hello, There !
 
 ### 💻 Computer Science & Engineering (Data Science) Student
 
